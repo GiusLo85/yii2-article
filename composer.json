@@ -1,0 +1,16 @@
+{
+    "name": "mickeyur/yii2-article",
+    "description": "Yii-2 article module",
+    "authors": [
+        {
+            "name": "mickeyur",
+            "email": "mickey.ur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "mickey\\article\\": ""
+        }
+    }
+}
